@@ -1,6 +1,6 @@
 # Unity Car Racing Game
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Demo Video](https://img.youtube.com/vi/ki0UdfLxajk/0.jpg)](https://www.youtube.com/watch?v=ki0UdfLxajk)
 
 ## Description
 This is a 3D car racing game developed using Unity and C#. The game includes several features such as a race positioning system, checkpoint system, and lap system. It offers an exciting and immersive racing experience for players.
@@ -8,7 +8,7 @@ This is a 3D car racing game developed using Unity and C#. The game includes sev
 ## Demo Video
 Click the image below to watch the demo video on YouTube:
 
-[![Demo Video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ki0UdfLxajk/0.jpg)](https://www.youtube.com/watch?v=ki0UdfLxajk)
+[![Demo Video](https://img.youtube.com/vi/ki0UdfLxajk/0.jpg)](https://www.youtube.com/watch?v=ki0UdfLxajk)
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
