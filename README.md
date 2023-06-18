@@ -14,13 +14,12 @@ Click the image below to watch the demo video on YouTube:
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-- Unity (version X.X.X or higher)
-- [Insert any other dependencies or prerequisites here]
+- Unity (version 2021.1.0 or higher)
 
 ### Installation
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/samikhwaireh/raceGo.git
 
 2. Open the Unity editor.
 
@@ -41,9 +40,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Commit your changes with a descriptive commit message.
 5. Push your changes to your forked repository.
 6. Create a pull request explaining your changes.
-
-## License
-[Insert your license information here]
 
 ## Acknowledgements
 #unity Assets:
