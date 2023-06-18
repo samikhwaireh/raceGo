@@ -46,9 +46,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 [Insert your license information here]
 
 ## Acknowledgements
-- [List any external libraries, assets, or resources used in the project]
-- [Give credit to any contributors or tutorials that helped you]
-
-## Contact
-- [Insert your contact information]
+#unity Assets:
+- ARCADE: FREE Racing Car:
+https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+- Standard Assets (for Unity 2018.4):
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+- Race Tracks:
+https://assetstore.unity.com/packages/3d/environments/roadways/race-tracks-140501
+- Sky5X One:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/sky5x-one-6332
 
